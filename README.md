@@ -1,2 +1,2 @@
 # youtube-clone
-a Youtube Clone that is made in React
+Live Preview: https://youtube-clone-v01.netlify.app/
