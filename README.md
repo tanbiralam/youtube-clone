@@ -11,8 +11,8 @@ This project is a YouTube clone application built using React.js and the YouTube
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [API Key](#api-key)
-- [Contributing](#contributing)
-- [License](#license)
+- [Live View](#live-view)
+
 
 ## Features
 
